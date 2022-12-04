@@ -1,3 +1,8 @@
+//TODO:
+// 1 - make readme
+// 2 - upload finished project to github and heroku
+// 3 - add check to make sure uuid doesn't generate an id that already exists in the database
+
 // initialize express application
 const express = require('express'); // express.js middleware so that we can communicate between our front-end and back-end
 const app = express(); // assign express middleware to a constant variable
