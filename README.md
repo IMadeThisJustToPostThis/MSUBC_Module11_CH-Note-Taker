@@ -19,7 +19,7 @@
   - in the command line type in 'npm i' then 'npm start' and click on the provided link
   - to add a note, make sure the title and text fields aren't blank and click the save button
   - to delete a note, click on the trashcan next to its title
-  !!- alternatively, simply access the live application at https://powerful-harbor-37574.herokuapp.com/
+  - !! alternatively, simply access the live application at https://powerful-harbor-37574.herokuapp.com/ !!
   ## Installation
   - open gitbash
   - navigate to the desired parent folder 
